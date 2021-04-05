@@ -2,6 +2,14 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "TahiraVeqar",
 	"description": "This is my first node js project",
+	"keywords": [
+		"freecodecamp",
+		"API's",
+		"Microservices",
+		"NVP"
+	],
+	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
